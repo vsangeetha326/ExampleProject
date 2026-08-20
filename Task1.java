@@ -1,8 +1,10 @@
+package org.test.ExampleProject;
+
 public class Task1 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hello welcome to hell");
+		System.out.println("Hello");
 		
 	}
 
