@@ -1,8 +1,10 @@
 package org.test.ExampleProject;
 
-public class Task4 {
-
+public class Task5 {
+	
 	public static void main(String[] args) {
-		System.out.println("I am in Task 4");
+		
+		System.out.println("Task 5 is created");
 	}
+
 }
