@@ -1,10 +1,11 @@
 package org.test.ExampleProject;
 
-public class Task3 {
-
+public class Task4 {
+	
 	public static void main(String[] args) {
-
-		System.out.println("Sung jin woo");
-
+		
+		System.out.println("Task 4 file is created");
+		
 	}
+
 }
